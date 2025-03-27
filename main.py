@@ -1,3 +1,5 @@
+from funcs import *
+
 print("Hola")
 print("segunda linea")
 print("tercera linea")
